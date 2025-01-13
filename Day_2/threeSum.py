@@ -57,15 +57,9 @@ def threeSum(nums):
     return ans
 
 
-
 def main():
-        
-
-
     question = [-1, 0, 1, 2, -1, -4]
     ans = threeSum(question)
-
-    
     print(ans)
 
 
